@@ -6,8 +6,8 @@ I'm Farrukh, a passionate full-stack developer with 4 years of hands-on experien
 
 - **Frontend:** React.js, Next.js
 - **Backend:** Node.js, Express.js, Nest.js
-- **Database:** MongoDB, MySQL
-- **Deployment:** Docker, Kubernetes, AWS
+- **Database:** MongoDB, MySQL, PostgreSQL
+- **Deployment:** Docker, AWS
 - **Other:** Git, RESTful APIs
 
 ## 🚀 Skills
